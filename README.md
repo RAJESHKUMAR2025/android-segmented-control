@@ -85,8 +85,8 @@ If you dont specify border_width and/or corner_radius the default values will be
 Credits
 -------
 Author: 
-* Le Van Hoang (@hoang8f)
-* Added support for vertical RadioGroup by [tchar](https://github.com/tchar).
+* Le Van Hoang (@rajeshkumar2025)
+* Added support for vertical RadioGroup by [RAJESHKUMAR 2025](https://github.com/RAJESHKUMAR 2025).
 
 License
 -------
